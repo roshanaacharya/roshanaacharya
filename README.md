@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **Studying**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/roshanaacharya](https://github.com/roshanaacharya)
 
